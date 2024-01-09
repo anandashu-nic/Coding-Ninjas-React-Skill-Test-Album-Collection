@@ -2,6 +2,10 @@
 
 This project utilizes Create React App as its base, providing a development environment setup.
 
+## Live Demo
+
+Check out the live demo [here](https://album-collection-react.netlify.app/).
+
 ## Available Scripts
 
 Once inside the project directory, you can execute the following commands:
@@ -28,4 +32,3 @@ Refer to the [deployment](https://facebook.github.io/create-react-app/docs/deplo
 
 The application utilizes the following API:
 - [JSONPlaceholder Albums API](https://jsonplaceholder.typicode.com/albums)
-
